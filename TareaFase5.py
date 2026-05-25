@@ -1,10 +1,10 @@
-print("Inicio de proyecto")
+def principal():
+    datos = [
+        ["Carne asada", "Ejecutivo", 13000],
+        ["Pollo BBQ", "Especial", 15000],
+        ["Pechuga de pollo", "Plato del día", 12000],
+        ["Postre de chocolate", "postres", 5000],
+        ["Jugos en agua", "Jugos", 7900]["Malteada de chocolate", "Malteadas", 8900],
+    ]
 
-nombre1 = "Miguel"
-nombre2 = "Ana"
-nombre3 = "Eduar"
-nombre4 = "Sofia"
-
-
-print("Hola", nombre1, "y", nombre2)
-print("Hola", nombre3, "y", nombre4)
+    n = 3
